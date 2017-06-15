@@ -1,1 +1,1 @@
-today is 2008-8-8
+today is 2000-0-0
